@@ -4,6 +4,7 @@ Este proyecto es una aplicación de consola que permite gestionar un conjunto de
 
 # Características
   Agregar estudiantes: Los usuarios pueden agregar estudiantes proporcionando un ID único, nombre, apellido y edad.
+
   Mostrar estudiantes: Se pueden visualizar todos los estudiantes almacenados, ordenados por su ID.
   Buscar estudiantes por ID: La aplicación permite buscar a un estudiante específico usando su ID y muestra sus datos y notas.
   Actualizar información de estudiantes: Los usuarios pueden modificar los datos personales de un estudiante existente.
