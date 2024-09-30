@@ -22,9 +22,9 @@ Este proyecto es una aplicación de consola que permite gestionar un conjunto de
   
     Persistencia de datos: Guardar los estudiantes en un archivo externo para mantener la información entre ejecuciones.
     
-    Interfaz gráfica: Crear una interfaz gráfica de usuario (GUI) para una experiencia de usuario más intuitiva.
+    Interfaz gráfica: Crear una interfaz gráfica de usuario para una experiencia de usuario más intuitiva.
     
-    Mayor robustez en la validación: Mejorar la verificación de entradas para evitar errores comunes (como caracteres en vez de números).
+    Mayor robustez en la validación: Mejorar la verificación de entradas para evitar errores comunes.
 
 # Conocimientos Demostrados
 Este proyecto refleja un manejo avanzado de varios conceptos en C++:
