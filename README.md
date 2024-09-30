@@ -18,7 +18,7 @@ Este proyecto es una aplicación de consola que permite gestionar un conjunto de
   Validación de entrada: Se incluyen mecanismos básicos de validación de ID para evitar duplicados y errores en la entrada de datos.
   
 # Futuras Mejoras
-  Algunas posibles mejoras futuras incluyen:
+  Algunas posibles mejoras futuras incluyen
   
     Persistencia de datos: Guardar los estudiantes en un archivo externo para mantener la información entre ejecuciones.
     
