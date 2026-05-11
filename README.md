@@ -42,10 +42,9 @@ Este proyecto refleja un manejo avanzado de varios conceptos en C++:
   Menús interactivos para la navegación del usuario, facilitando la interacción con el sistema.
 
 # Contacto
-Ante cualquier duda o sugerencia, sientase libre de contactarme:
 
   Nombre: Agustin Cabrera
   
   Email: aguscabreratoyas@gmail.com
   
-  LinkedIn: Agustin1881
+  LinkedIn: AgusstinCab
